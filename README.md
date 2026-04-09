@@ -175,6 +175,8 @@ ORDER BY MC_Share_Pct DESC;
 ---
 
 ## Tableau Dashboard
+<img width="1917" height="1063" alt="image" src="https://github.com/user-attachments/assets/3d2bbd9f-21f6-4704-a037-f48c0d6c7fc5" />
+
 
 **[View Live Dashboard →](https://public.tableau.com/views/WalmartBeerCategoryAnalysisMolsonCoors2024/Dashboard1)**
 
