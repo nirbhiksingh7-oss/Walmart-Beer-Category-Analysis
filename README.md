@@ -20,7 +20,7 @@ This project replicates that workflow end to end.
 
 
 ## Repository Structure
-
+```
 Walmart-Beer-Category-Analysis/
 │
 ├── README.md
@@ -29,8 +29,8 @@ Walmart-Beer-Category-Analysis/
     └── analysis_queries.sql
 ```
 
-**[Download Dataset →](walmart_beer_category.xlsx)**
----
+**[Download Dataset →](walmart_beer_category.xlsx)**  
+
 
 ## Dataset
 
