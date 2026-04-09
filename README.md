@@ -32,9 +32,7 @@ Walmart-Beer-Category-Analysis/
     └── walmart_beer_category.db
 ```
 
-**[Download Dataset →](data/walmart_beer_category.xlsx)**  
-**[View SQL Queries →](sql/analysis_queries.sql)**  
-**[Download SQLite Database →](sql/walmart_beer_category.db)**
+**[Download Dataset →](walmart_beer_category.xlsx)**
 ---
 
 ## Dataset
