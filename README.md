@@ -1,5 +1,4 @@
-# Walmart-Beer-Category-Analysis
-Walmart beer category analysis simulating Circana-style syndicated data — sub-category trends, brand share, promotion effectiveness, and regional performance using SQL, Excel, and Tableau.
+
 
 # Walmart Beer Category Analysis — Molson Coors 2024
 
@@ -21,15 +20,13 @@ This project replicates that workflow end to end.
 
 
 ## Repository Structure
-```
+
 Walmart-Beer-Category-Analysis/
 │
 ├── README.md
-├── data/
-│   └── walmart_beer_category.xlsx
+├── walmart_beer_category.xlsx
 └── sql/
-    ├── analysis_queries.sql
-    └── walmart_beer_category.db
+    └── analysis_queries.sql
 ```
 
 **[Download Dataset →](walmart_beer_category.xlsx)**
