@@ -26,7 +26,7 @@ Walmart-Beer-Category-Analysis/
 ├── README.md
 ├── walmart_beer_category.xlsx
 └── sql/
-    └── analysis_queries.sql
+    └── Walmart Category Analysis.sql
 ```
 
 **[Download Dataset →](walmart_beer_category.xlsx)**  
