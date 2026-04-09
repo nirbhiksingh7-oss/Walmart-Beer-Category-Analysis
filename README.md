@@ -60,7 +60,7 @@ The dataset was generated using Python to simulate realistic Walmart beer catego
 
 ## SQL Analysis
 
-Five queries were written in DB Browser for SQLite to answer core category management business questions. Full queries available in [`sql/analysis_queries.sql`](sql/analysis_queries.sql)
+Five queries were written in DB Browser for SQLite to answer core category management business questions. Full queries available in the SQLite database [`Walmart Category Analysis.db`](Walmart%20Category%20Analysis.db)
 
 ---
 
